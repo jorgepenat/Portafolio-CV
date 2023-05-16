@@ -4,4 +4,4 @@ Elaborada con HTML-CSS-JS
 
 ## Proyectos
 
--[Landing Page tipo Portafolio-CV](https://jorgepenat.github.io/Maquetacion/Portafolio-cv)
+-[Landing Page tipo Portafolio-CV](https://jorgepenat.github.io/Portafolio-CV/Maquetacion)
